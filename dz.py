@@ -79,6 +79,22 @@ def foo_result(x):
     return result
 
 
+git clone https://github.com/Buza15/lesson2.git
+
+перейти в скачанную папку
+
+git branch Buzovsky
+
+git checkout Buzovsky
+
+git branch
+
+git add "название файла"
+
+git commit
+
+git push
+
 
 
 
