@@ -91,29 +91,6 @@ def foo_result(x):
 
 
 
-sdsd
-sds
-sdsd
-sd
-sds
-delattr(s)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
