@@ -1,4 +1,3 @@
-.idea/
 
 #Task 1
 
