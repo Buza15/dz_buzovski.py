@@ -9,6 +9,8 @@ if c == 'b':
 elif c == 'k':
     print("%d Килобайт = %d Байт" % (a, a/1024))
 
+print('#####' * 10)
+
 
 #Task 2
 
@@ -26,7 +28,8 @@ print ("Multiply", m)
 
 
 
-#3 task
+#Task 3
+
 start = input()
 end = input()
 step = input()
@@ -34,7 +37,8 @@ step = input()
 for i in range(start, end, step):
     print(-1.24 * i ** 2 + i)
 
-# 4 task
+#Task 4
+
 
 value = input("Type number")
 
@@ -45,7 +49,9 @@ for i in range(len(value) / 2):
 else:
     print('Palindrome')
 
-# 5 task
+#Task 5
+
+
 a = [1, 2, -3]
 
 _sum = 0
