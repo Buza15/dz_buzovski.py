@@ -23,9 +23,7 @@ while n > 0:
 print("Summ: ", s)
 print ("Multiply", m)
 
-
-
-
+#last   
 
 
 
